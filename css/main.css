@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: Verdana, Tahoma, sans-serif;
+  margin: 0;
+  line-height: 1.4;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1, h2, h3, button {
+  font-family: "Anton", sans-serif;
+}
+
+h1 {
+  color: #fff;
+  font-size: 4.209rem;
+  text-align: center;
+  text-shadow: 2px 3px 4px rgba(0,0,0,0.6);
+}
+
+h2 {
+  color: #F54F95;
+  font-size: 3.157rem;
+  margin-top: 0;
+}
+
+h3 {
+  font-size: 2.369rem;
+  text-transform: uppercase;
+  margin: 0;
+}
+
